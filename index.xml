@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tenach - 推那墙</title>
+    <link>https://tenach.github.io/</link>
+    <description>Recent content on Tenach - 推那墙</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tenach.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>在 Vultr 上搭建 Shadowsocks 服务端</title>
+      <link>https://tenach.github.io/post/ss-server-on-vultr/</link>
+      <pubDate>Sat, 03 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenach.github.io/post/ss-server-on-vultr/</guid>
+      <description>Vultr 云平台 
+本文介绍如何注册 Vultr 云平台账户、创建 PayPal 账户并绑定银行卡、下单购买 Vultr 主机 并部署 Shadowsocks 服务端。
+配置过程步骤较多，如果不想麻烦，可联络我帮忙代购并配置 Vultr 主机，最后打赏一点手工费 就好啦。
+依照本文教程进行 Shadowsocks server 配置时，需要具备一定 Linux 控制台使用基础，起码 需要了解 vi 等编辑器的使用和 ssh 的使用。
+注册 Vultr 帐号 如果已有 Vultr 帐号，可忽略本节，跳到 “配置支付方式” 。
+打开 Vultr 网站 www.vultr.com。
+ 图 1. Vultr 主页 
+点击右上角 “Create Account” 创建帐号，填入邮箱和密码。
+ 图 2. 创建 Vultr 帐号 
+接着进入邮箱，查收确认邮件。
+ 图 3. 到邮箱确认注册 
+点击邮件中的确认按钮，通过验证并自动登录到 Vultr。
+配置支付方式  在购买 VPS 之前，需要配置付款方式，才能进行支付。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tenach.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tenach.github.io/about/</guid>
+      <description>About Tenach is an organization in China consists of developers who want to help others break through the Great FireWall(GFW) and push it down.
+Contact Join the developers on GitHub: https://github.com/tenach
+Subscribe latest news on Twitter: https://twitter.com/VeayoX
+Related Fanach: Learn how to use Shadowsocks clients and surf accross GFW.</description>
+    </item>
+    
+  </channel>
+</rss>
